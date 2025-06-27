@@ -1,0 +1,78 @@
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Hospital Management System\Hospital Management System\bin\Debug\Guna.UI.dll
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital.78AF1D08.Up2Date
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin_login.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patient.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Medicines.resources
+E:\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase.mdf
+E:\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase_log.ldf
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Diagn.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase.mdf
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase_log.ldf
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Diagn.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin_login.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Medicines.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patient.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital.78AF1D08.Up2Date
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\saidu\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\New folder\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase.mdf
+E:\New folder\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase_log.ldf
+E:\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Diagn.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin_login.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Medicines.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patient.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital.78AF1D08.Up2Date
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase.mdf
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase_log.ldf
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Diagn.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin_login.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Medicines.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patient.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital.78AF1D08.Up2Date
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\ADMIN\Desktop\hospital  final project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
